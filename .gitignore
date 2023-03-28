@@ -8,6 +8,7 @@ __pycache__/
 *$py.class
 build/
 __tmp/*
+/scripts/__pycache__/
 
 # JS build
 gradio/templates/cdn
