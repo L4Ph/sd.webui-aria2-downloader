@@ -1,0 +1,61 @@
+# Python build
+.eggs/
+gradio.egg-info
+dist/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+__tmp/*
+
+# JS build
+gradio/templates/cdn
+gradio/templates/frontend
+
+# Secrets
+.env
+
+# Gradio run artifacts
+*.db
+*.sqlite3
+gradio/launches.json
+flagged/
+gradio_cached_examples/
+tmp.zip
+
+# Tests
+.coverage
+coverage.xml
+test.txt
+**/snapshots/**/*.png
+
+# Demos
+demo/tmp.zip
+demo/files/*.avi
+demo/files/*.mp4
+demo/all_demos/demos/*
+demo/all_demos/requirements.txt
+demo/*/config.json
+
+# Etc
+.idea/*
+.vscode/*
+.DS_Store
+*.bak
+workspace.code-workspace
+*.h5
+
+# log files
+.pnpm-debug.log
+
+# Local virtualenv for devs
+.venv*
+
+# FRP
+gradio/frpc_*
+
+# js
+node_modules
+public/build/
+test-results
