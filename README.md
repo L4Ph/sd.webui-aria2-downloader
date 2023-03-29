@@ -5,7 +5,7 @@
 1. Go <kbd>Settings</kbd> → <kbd>Available</kbd>
 2. Paste Extension index URL: 
 ```
-https://github.com/Katsuyuki-Karasawa/sd.webui-model-downloader
+https://github.com/Katsuyuki-Karasawa/sd.webui-aria2-downloader
 ```
 3. <kbd>Installed</kbd> → <kbd>Applie and restart UI</kbd>
 
@@ -18,7 +18,7 @@ https://github.com/Katsuyuki-Karasawa/sd.webui-model-downloader
 1. <kbd>Settings</kbd> → <kbd>Available</kbd> へ行く
 2. Extension index URL: に以下URLをコピペ
 ```
-https://github.com/Katsuyuki-Karasawa/sd.webui-model-downloader
+https://github.com/Katsuyuki-Karasawa/sd.webui-aria2-downloader
 ```
 3. <kbd>Installed</kbd> → <kbd>Applie and restart UI</kbd>
 
