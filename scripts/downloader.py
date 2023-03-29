@@ -27,13 +27,13 @@ def download_model(download_url, dropdown, filename):
     filename = filename or os.path.basename(download_url)
 
     if dropdown == "Stable Diffusion":
-        destination = "models/Stable-diffusion/models/" + filename
+        destination = "models/Stable-diffusion/" + filename
     elif dropdown == "LoRA":
-        destination = "models/Lora/models/" + filename
+        destination = "models/Lora/" + filename
     elif dropdown == "VAE":
-        destination = "models/vae/models/" + filename
+        destination = "models/vae/" + filename
     else:
-        destination = "embeddings/models/" + filename
+        destination = "embeddings/" + filename
         print(destination)
 
     download_with_aria2c(download_url, destination)
