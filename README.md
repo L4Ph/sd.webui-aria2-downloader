@@ -1,6 +1,7 @@
 # sd.webui-model-downloader
 
 # English
+## Currently Windows users only
 ## Simple downloader extension using aria2
 1. Go <kbd>Settings</kbd> → <kbd>Available</kbd>
 2. Paste Extension index URL: 
@@ -14,6 +15,7 @@ https://github.com/Katsuyuki-Karasawa/sd.webui-aria2-downloader
 ---
 
 # 日本語
+## 現在はWindowsユーザーのみです
 ## aria2を使用したシンプルなダウンローダー拡張機能
 1. <kbd>Settings</kbd> → <kbd>Available</kbd> へ行く
 2. Extension index URL: に以下URLをコピペ
