@@ -24,5 +24,5 @@ https://github.com/Katsuyuki-Karasawa/sd.webui-model-downloader
 
 ### 最大で5倍程度のダウンロード速度の向上を見込めます
 
-aria2についてはコチラをご覧ください
+aria2についてはコチラをご覧ください  
 https://qiita.com/TokyoMickey/items/cb51805a19dcee416151
